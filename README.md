@@ -3,6 +3,7 @@
 ## Create virtual environment with pyenv
 
 ```sh
+pyenv install --list
 pyenv virtualenv 3.8.10 mlx-training-env
 source ~/.pyenv/versions/mlx-training-env/bin/activate
 
